@@ -1,0 +1,17 @@
+.s1{
+    outline: 5px solid black;
+    border: 5px solid red;
+    margin:10px;
+}
+.s2{
+    outline: 5px solid black;
+    border: 5px solid;
+    border-color: blue green;
+    margin:20px;
+}
+.s3{
+    outline: 5px solid black;
+    border: 5px dashed;
+    border-color:red green blue yellow ;
+    margin:10px;
+}

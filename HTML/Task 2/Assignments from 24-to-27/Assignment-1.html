@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Assignment</title>
+</head>
+<body>
+    <form action="test.py" method="POST">
+        <input type="hidden" value="09188#111daqaff">
+        <label>Username</label><br>
+        <input type="text" name="Username" required placeholder="Khaled Mahmoud">
+        <br><hr>
+        <label>Password</label><br>
+        <input type="password" name="Password" placeholder="dde%%$kk1">
+        <br><hr>
+        <label>Mobile</label><br>
+        <label> Like that : +20100 (234) 123</label><br>
+        <input type="tel" name="Mobile" pattern="[+]{1} [0-9]{5}([0-9]{3})[0-9]{3}]" placeholder="+20100(234)123">
+        <br><hr>
+        <label>Email</label><br>
+        <input type="email" name="Email" required placeholder="Khaled@yahoo.com">
+        <br><hr>
+        <label>Subject</label><br>
+        <input type="text" name="Subject" placeholder="Math">
+        <br><hr>
+        <input type="reset" value="Rest">
+        <input type="submit" value="Send Data">
+    </form>
+</body>
+</html>

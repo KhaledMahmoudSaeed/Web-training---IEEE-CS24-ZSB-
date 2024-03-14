@@ -1,0 +1,13 @@
+.d1,
+.d2,
+.d3,
+.d4{
+    background-color: red;
+    margin-bottom: 10px;
+    width: 400px;
+}
+.d4{
+    height: 200px;
+    overflow: hidden;
+
+}

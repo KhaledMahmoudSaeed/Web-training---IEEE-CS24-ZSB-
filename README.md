@@ -95,3 +95,62 @@
 </details>
 
 </details>
+
+## CSS
+
+``` ```<details> <summary>**Tasks**</summary>
+``` ```<details> <summary>**Task 1**</summary>
+
+[First Assignment Questions](https://elzero.org/css-assignments-lesson-from-1-to-4/)
+|Soultion HTML|Soultion CSS |
+|:---:|:---:|
+|None|[First Assignment](/CSS/Task%201/Assignments%20from%201-to-4/Assignment-1.css)|
+|[Second Assignment](/CSS/Task%201/Assignments%20from%201-to-4/Assignment-2.html)|None|
+|[Third Assignment](/CSS/Task%201/Assignments%20from%201-to-4/Assignment-3.html)|None|
+|[Fourth Assignment](/CSS/Task%201/Assignments%20from%201-to-4/Assignment-4.html)|None|
+|None|[Fifth Assignment](/CSS/Task%201/Assignments%20from%201-to-4/Assignment-5.css)|
+|None|[Sixth Assignment](/CSS/Task%201/Assignments%20from%201-to-4/Assignment-6.css)|
+
+</details>
+
+---
+
+``` ```<details> <summary>**Task 2**</summary>
+
+[Second Assignment Questions](https://elzero.org/css-assignments-lesson-from-5-to-8/)
+|Soultion HTML|Soultion CSS |
+|:---:|:---:|
+|[First Assignment](/CSS/Task%201/Assignments%20from%205-to-8/Assignment-1.html)|[First Assignment](/CSS/Task%201/Assignments%20from%205-to-8/Assignment-1.css)|
+|[Second Assignment](/CSS/Task%201/Assignments%20from%205-to-8/Assignment-2.html)|[Second Assignment](/CSS/Task%201/Assignments%20from%205-to-8/Assignment-2.css)|
+|[Third Assignment](/CSS/Task%201/Assignments%20from%205-to-8/Assignment-3.html)|[Third Assignment](/CSS/Task%201/Assignments%20from%205-to-8/Assignment-3.css)|
+|[Fourth Assignment](/CSS/Task%201/Assignments%20from%205-to-8/Assignment-4.html)|[Fourth Assignment](/CSS/Task%201/Assignments%20from%205-to-8/Assignment-4.css)|
+
+</details>
+
+---
+
+
+``` ```<details> <summary>**Task 3**</summary>
+
+[Third Assignment Questions](https://elzero.org/css-assignments-lesson-from-9-to-12/)
+|Soultion HTML|Soultion CSS |
+|:---:|:---:|
+|[First Assignment](/CSS/Task%201/Assignments%20from%209-to-12/Assignment-1.html)|[First Assignment](/CSS/Task%201/Assignments%20from%209-to-12/Assignment-1.css)|
+|[Second Assignment](/CSS/Task%201/Assignments%20from%209-to-12/Assignment-2.html)|[Second Assignment](/CSS/Task%201/Assignments%20from%209-to-12/Assignment-2.css)|
+
+</details>
+
+---
+
+``` ```<details> <summary>**Task 4**</summary>
+
+[Fourth Assignment Questions](https://elzero.org/css-assignments-lesson-from-13-to-16/)
+|Soultion HTML|Soultion CSS |
+|:---:|:---:|
+|[First Assignment](/CSS/Task%201/Assignments%20from%2013-to-16/Assignment-1.html)|[First Assignment](/CSS/Task%201/Assignments%20from%2013-to-16/Assignment-1.css)|
+|[Second Assignment](/CSS/Task%201/Assignments%20from%2013-to-16/Assignment-2.html)|[Second Assignment](/CSS/Task%201/Assignments%20from%2013-to-16/Assignment-2.css)|
+
+</details>
+
+
+</details>

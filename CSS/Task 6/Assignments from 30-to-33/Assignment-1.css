@@ -1,0 +1,33 @@
+.black,
+.green,
+.blue,
+.red{
+width: 100px ;
+height: 100px;
+}
+.black{
+    background-color: black;
+    position: absolute;
+    z-index: -1;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.blue{
+    background-color: blue;
+    position: absolute;
+    z-index: 1;
+    margin: 20px;
+}
+.green{
+    background-color: green;
+    position: absolute;
+    z-index: 2;
+    margin: 25px;
+}
+.red{
+    background-color: red;
+    position: absolute;
+    z-index: 3;
+    margin: 30px;
+}

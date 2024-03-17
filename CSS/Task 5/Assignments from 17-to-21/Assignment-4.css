@@ -1,0 +1,11 @@
+.lin{
+    background-color: lightseagreen;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: capitalize;
+    text-align: center;
+    border: 3px;
+    background-position-x: center;
+    margin: 50%;
+}

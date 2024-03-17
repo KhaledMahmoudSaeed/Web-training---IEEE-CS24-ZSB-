@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 700px;
+    margin: 20px auto;
+    border-bottom: 1px solid #1fa396;
+    text-transform: capitalize;
+}
+table thead tr td{
+    background-color: #404040;
+    color: white;
+    font-weight: bold;
+
+    text-align: center;
+}
+table td{
+    padding: 10px;
+    background-color: #eee;
+    text-align: center;
+}
+td img{
+    width: 64px;
+    height: 64px;
+}
+td a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 10px;
+}
+.view{
+    background-color: #03a9f4;
+}
+.delet{
+    background-color: #e91e63;
+}

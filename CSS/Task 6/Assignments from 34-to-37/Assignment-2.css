@@ -1,0 +1,15 @@
+div{
+    background-color: #eee;
+    font-size: larger;
+    font-weight: bold;
+    padding: 20px;
+    margin: 20px auto;
+}
+div::first-letter{
+    content: " ";
+    background-color: red;
+    padding: 10px;
+    position: relative;
+    margin-left: -30px;
+    margin-right: 10px;
+}

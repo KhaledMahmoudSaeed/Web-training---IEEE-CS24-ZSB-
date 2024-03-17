@@ -1,0 +1,18 @@
+p{
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #EEE;
+    counter-increment: count;
+    border-right: 5px solid rgba(254, 45, 45, 0.915);
+}
+p::before{
+    content: counter(count);
+    padding: 20px;
+    width: 50px;
+    font-weight: bold;
+    background-color: rgba(254, 45, 45, 0.915);
+    position: relative;
+    right: 20px;
+
+}

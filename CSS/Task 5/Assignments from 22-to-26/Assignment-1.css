@@ -1,0 +1,10 @@
+div p{
+    background-color: #EEE;
+    padding: inherit;
+    border: inherit;
+    text-align: center;
+}
+div{
+    padding:10px;
+    border:10px solid rgb(0, 255, 60);
+}

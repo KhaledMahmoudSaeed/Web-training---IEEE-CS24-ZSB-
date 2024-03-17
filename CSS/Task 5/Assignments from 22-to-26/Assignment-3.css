@@ -1,0 +1,16 @@
+.root{
+    font-size: 20px;
+    text-align: center;
+}
+.one{
+    font-size: .5rem;
+    text-align:inherit;
+}
+.two{
+    font-size: .4rem;
+    text-align:inherit;
+}
+.three{
+    font-size: .3rem;
+    text-align:inherit;
+}
